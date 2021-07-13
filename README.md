@@ -6,6 +6,11 @@
 - MySQL
 
 
+## Create Database
+```
+mysql> CREATE DATABASE directory;
+```
+
 ## Run Server
 ```
 composer install
